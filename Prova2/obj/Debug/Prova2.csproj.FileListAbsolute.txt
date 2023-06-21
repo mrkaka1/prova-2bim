@@ -1,0 +1,11 @@
+C:\Users\daluz\source\repos\Prova2\Prova2\bin\Debug\Prova2.exe.config
+C:\Users\daluz\source\repos\Prova2\Prova2\bin\Debug\Prova2.exe
+C:\Users\daluz\source\repos\Prova2\Prova2\bin\Debug\Prova2.pdb
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.SuggestedBindingRedirects.cache
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.Form1.resources
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.exe
+C:\Users\daluz\source\repos\Prova2\Prova2\obj\Debug\Prova2.pdb
